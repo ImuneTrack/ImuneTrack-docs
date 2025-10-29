@@ -94,7 +94,6 @@ O ecossistema ImuneTrack é composto por:
 | **imunetrack-backend** | Microserviço principal com lógica de negócio | FastAPI, PostgreSQL, SQLAlchemy |
 | **imunetrack-auth** | Serviço de autenticação e autorização | FastAPI, JWT, OAuth2 |
 | **imunetrack-frontend** | Interface web do usuário | React, TypeScript |
-| **imunetrack-mobile** | Aplicativo móvel | React Native |
 | **imunetrack-docs** | Documentação central (este repositório) | Markdown |
 
 ---
@@ -106,21 +105,10 @@ O ecossistema ImuneTrack é composto por:
 - **FastAPI** - Framework web moderno e de alta performance
 - **SQLAlchemy** - ORM para Python
 - **PostgreSQL** - Banco de dados relacional
-- **Alembic** - Gerenciamento de migrações
-- **Pydantic v2** - Validação de dados
-- **Pytest** - Framework de testes
-
-### DevOps
-- **Docker & Docker Compose** - Containerização
-- **GitLab CI/CD** - Integração e deploy contínuos
-- **Nginx** - Servidor web e proxy reverso
-
+- 
 ### Qualidade
 - **Pytest** - Testes unitários e de integração
-- **Coverage.py** - Cobertura de testes
 - **Pylint** - Análise estática de código
-- **Black** - Formatação de código
-
 ---
 
 ## Como Usar Esta Documentação
