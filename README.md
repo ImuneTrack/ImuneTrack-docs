@@ -105,10 +105,11 @@ O ecossistema ImuneTrack é composto por:
 - **FastAPI** - Framework web moderno e de alta performance
 - **SQLAlchemy** - ORM para Python
 - **PostgreSQL** - Banco de dados relacional
-- 
+
 ### Qualidade
 - **Pytest** - Testes unitários e de integração
 - **Pylint** - Análise estática de código
+
 ---
 
 ## Como Usar Esta Documentação
